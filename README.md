@@ -1,7 +1,7 @@
 # Workshop Microservices
 
 ## Público-alvo
-Treinamento volta para arquitetos de software, líderes de equipe, desenvolvedores em geral... 
+Treinamento voltado para arquitetos de software, líderes de equipe, desenvolvedores em geral... 
 
 ## Objetivo
 A arquitetura de micro-serviços já vêm em constante ascensão há um tempo. Aprenda o que são, como é o panorama atual e as práticas e metodologias disponíveis para entrar ou crescer na área mais ágil e dinâmica da programação.
@@ -37,3 +37,9 @@ Ao final deste treinamento, é esperado que você:
 Compreenda a definição de uma arquitetura de micro-serviços, e entenda os benefícios e problemas enfrentados na adoção da mesma;
 Implemente APIs RESTful utilizando Spring Boot, com suporte a persistência de dados, segurança, e boas práticas de programação;
 Implemente micro-serviços com Spring Cloud e com o suporte dos projetos Netflix OSS. 
+
+## Slides
+- https://goo.gl/ho4BcU
+- https://goo.gl/edjNLX
+- https://goo.gl/nvY58X
+- https://goo.gl/y6Abmj
